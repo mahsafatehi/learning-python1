@@ -1,0 +1,4 @@
+f = open('assignment1.csv', 'r')
+mylist = list(f)
+print ("mylist : ", mylist)
+
